@@ -1,0 +1,25 @@
+
+home page -
+	All texts - #707070
+
+left menu -
+	Profile name, option texts and horizontal borders - #707070
+
+right menu -
+	Option type - #000000
+	Options - #707070
+
+products list page -
+	Search bar background - #EFEFEF
+	Search bar icon, text - #707070
+	Product price - #000000
+	Product Name - #707070
+
+product page -
+	product rating, add to cart button, tab highlight - #FF7974
+	product colour option - #33A37F
+	background - #FFFFFF
+	product image selected - #D8FFEF
+	product image not selected - #F5FFFB
+	product name text - #000000
+	product category, reviews count texts, description - #707070
